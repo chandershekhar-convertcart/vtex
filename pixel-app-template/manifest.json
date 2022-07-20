@@ -1,7 +1,7 @@
 {
   "name": "CONVERTCART",
   "vendor": "convertcart",
-  "version": "0.0.1",
+  "version": "1.0.0-beta.0",
   "title": "convertcart cro",
   "description": "Official convertcart app",
   "billingOptions": {
