@@ -1,20 +1,10 @@
 {
   "name": "CONVERTCART",
-  "vendor": "convertcart",
+  "vendor": "deguns",
   "version": "1.0.0-beta.0",
   "title": "convertcart cro",
   "description": "Official convertcart app",
-  "billingOptions": {
-    "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
-    "support": {
-      "url": "https://support.vtex.com/hc/requests"
-    },
-    "free": true,
-    "type": "free",
-    "availableCountries": [
-      "*"
-    ]
-  },
+
   "builders": {
     "react": "3.x",
     "store": "0.x",
